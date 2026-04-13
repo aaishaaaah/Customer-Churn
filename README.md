@@ -1,7 +1,7 @@
 # Telco Customer Churn Analysis
 
 ##Overview
-This project analyzes customer churn for a telecommunications company using logistic regression. The goal is to identify key factor of churn and provide actionable business recommendations.
+This project analyzes customer churn for a telecommunications company using logistic regression. The goal is to identify key factors of churn and provide recommendations.
 
 **Dataset:** [Telco Customer Churn dataset from Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)  
 **Sample Size:** 7,043 customers
