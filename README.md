@@ -1,6 +1,6 @@
 # Telco Customer Churn Analysis
 
-This project analyzes customer churn for a telecommunications company using logistic regression. The goal is to identify key factors of churn and provide recommendations. Churn is when a customer leaves a business, in this case cancels their phone/internet server.
+This project analyzes customer churn for a telecommunications company using logistic regression. The goal is to identify key factors of churn and provide recommendations. Churn is when a customer leaves a business, in this case, cancels their phone/internet server.
 
 **Dataset:** [Telco Customer Churn dataset from Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)  
 **Sample Size:** 7,043 customers
@@ -44,5 +44,11 @@ This project analyzes customer churn for a telecommunications company using logi
 2. **Investigate fiber optic service issues** — currently 4.5x churn risk
 3. **Incentivize autopay** to replace electronic checks (44% higher churn)
 4. **Bundle streaming services** with contract incentives
+
+## Visualisations 
+Churn Distribution
+Odds ratio plot
+Reciever operating characteristic curve
+
 
 
